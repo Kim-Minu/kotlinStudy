@@ -1,6 +1,4 @@
-package ControlFlow
-
-import java.util.logging.LogManager
+package controlFlow
 
 fun main(){
     //cases("Hello")

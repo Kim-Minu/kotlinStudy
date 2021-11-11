@@ -1,4 +1,4 @@
-package Inheritance
+package inheritance
 
 open class Lion(val name: String, var origin: String) {
     fun sayHello() {

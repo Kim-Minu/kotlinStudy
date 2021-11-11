@@ -1,6 +1,4 @@
-package Generics
-
-import Classes.Customer
+package generics
 
 class MutableStack<E>(vararg  items: E){
     private val elements = items.toMutableList()

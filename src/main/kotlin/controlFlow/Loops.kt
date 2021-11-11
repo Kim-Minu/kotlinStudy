@@ -1,4 +1,4 @@
-package ControlFlow
+package controlFlow
 
 fun eatACake() = println("Eat a Cake")
 fun bakeACake() = println("Bake a Cake")
